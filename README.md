@@ -21,12 +21,12 @@ The database supports structured data storage and retrieval for common insurance
 
 The database contains the following tables:
 
-- `customer` — stores customer and vehicle information
-- `policy` — stores insurance policy records
-- `covers` — links customers to insurance policies
+- `customer` - stores customer and vehicle information
+- `policy` - stores insurance policy records
+- `covers` - links customers to insurance policies
 - `premium_payment` — tracks payment history and billing information
-- `accidents` — stores accident report information
-- `participated` — records customer involvement in accidents
+- `accidents` - stores accident report information
+- `participated` - records customer involvement in accidents
 
 ## Technologies Used
 
